@@ -1,0 +1,17 @@
+{
+  "athlete": {"name": "Herb Washington", "sex": "M", "height_m": 1.83,
+              "weight_kg": 77.1, "waist_cm": null},
+  "regimen": {"sprint_days_per_week": null, "weekly_sprint_volume_m": null,
+              "accel_work_pct": null, "max_velocity_pct": null,
+              "lifting_days_per_week": null,
+              "notes": "regimen undocumented in accessible sources"},
+  "diet": {"kcal_per_day": null, "carb_g_per_kg": null,
+           "protein_g_per_kg": null, "pre_test_fuel": null,
+           "fasting_protocol": null},
+  "perf": {"distance_yards": 60, "time_s": 5.8, "splits": null},
+  "prov": {
+    "athlete.height_m": {"tier": "A", "source": "baseball-reference / athlete registry"},
+    "athlete.weight_kg": {"tier": "A", "source": "baseball-reference"},
+    "perf.time_s": {"tier": "A", "source": "world record 1972"}
+  }
+}
