@@ -1,3 +1,4 @@
+Copyright © 2026 Lewis James Seals Jr. All rights reserved. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 sprintprofile
 
 Deterministic, evidence-graded physical-property profiles for 50- and 60-yard sprinters.
